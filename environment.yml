@@ -5,5 +5,4 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  - leafmap
-  - geopandas
+  - leafmap-lite
