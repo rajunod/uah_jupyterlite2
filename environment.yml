@@ -5,3 +5,8 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - leafmap
+  - localtileserver
+  - rioxarray
+  - geopandas
+  
